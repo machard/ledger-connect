@@ -40,3 +40,15 @@ You can also build your own app outside of Ledger products.
 - https://www.npmjs.com/package/@ledgerhq/react-native-hw-transport-ble
 - https://www.npmjs.com/package/0x-subproviders (eth / evm chain subproviders)
 - https://www.npmjs.com/package/@web3-react/ledger-connector (ethereum/evm chains web3 react connector)
+
+## Libs available in all cases
+
+- https://www.npmjs.com/package/@ledgerhq/hw-app-btc
+- https://www.npmjs.com/package/@ledgerhq/hw-app-eth
+- https://www.npmjs.com/package/@ledgerhq/hw-app-cosmos
+- https://www.npmjs.com/package/@ledgerhq/hw-app-algorand
+- https://www.npmjs.com/package/@ledgerhq/hw-app-elrond
+- https://www.npmjs.com/package/@ledgerhq/hw-app-polkadot
+- https://www.npmjs.com/package/@ledgerhq/hw-app-tezos
+- https://www.npmjs.com/package/@ledgerhq/hw-app-trx
+- https://www.npmjs.com/package/@ledgerhq/hw-app-xrp
