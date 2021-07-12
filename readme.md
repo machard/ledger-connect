@@ -1,6 +1,13 @@
+# Ledger Pay
+
+Allow your customers to pay with their Ledger directly on your website with our Pay with Ledger lib.
+Easy and fast integration
+
+- ...tbd
+
 # Ledger Connect
 
-How to build on top of ledger devices
+How to build custom experiences on top of ledger devices
 
 ## Integrate within Ledger Live
 Ledger live is the desktop and mobile app built by Ledger.
