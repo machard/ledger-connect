@@ -3,7 +3,7 @@
 Allow your customers to pay with their Ledger directly on your website with our Pay with Ledger lib.
 Easy and fast integration
 
-- ...tbd
+- https://stripe.com/docs/payments/checkout
 
 # Ledger Connect
 
