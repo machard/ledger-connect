@@ -3,7 +3,13 @@
 Allow your customers to pay with their Ledger directly on your website with our Pay with Ledger lib.
 Easy and fast integration
 
-- https://stripe.com/docs/payments/checkout
+### Merchants examples
+
+- https://github.com/machard/ledger-pay-merchant-example
+
+### Widgets
+
+- https://github.com/machard/ledger-web-pay-eth-demo
 
 # Ledger Connect
 
@@ -28,6 +34,10 @@ Ledger web is a lightweight web and open platform built on top of Ledger devices
 ### Repos
 
 - https://github.com/machard/ledger-web
+
+### Engine
+
+- https://www.npmjs.com/package/ledger-web-engine-react
 
 ### Developer infos
 
